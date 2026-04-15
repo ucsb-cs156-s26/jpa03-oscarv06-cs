@@ -1,6 +1,6 @@
 # STARTER-jpa03
 
-Running at: <https://ucsb-cs156-s26.github.io/jpa03-oscarv06-cs/>
+Running at: https://ucsb-cs156-s26.github.io/jpa03-oscarv06-cs/
 
 # Configuring GitHub Pages for the documentation
 
