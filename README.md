@@ -1,6 +1,6 @@
 # STARTER-jpa03
 
-Running at: https://jpa03-oscarv06-cs.dokku-01.cs.ucsb.edu/swagger-ui/index.html
+Running at: https://ucsb-cs156-s26.github.io/jpa03-oscarv06-cs/
 
 # Configuring GitHub Pages for the documentation
 
